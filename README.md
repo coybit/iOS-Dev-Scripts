@@ -7,3 +7,7 @@ Suppose you have a large enough icon (for example 1024x1024) and you want to gen
 Example:
 
 `sh icon-generator.sh icon1024x1024.png`
+
+## simulator-cleaner.sh
+To run a fresh install of the application every time unit tests are run.
+You can find the instruction for using it in the file iteself (commented).
