@@ -11,3 +11,6 @@ Example:
 ## simulator-cleaner.sh
 To run a fresh install of the application every time unit tests are run.
 You can find the instruction for using it in the file iteself (commented).
+
+## run-test.sh
+To run test from command line. It could be used when you are going to setup yourown CI.
