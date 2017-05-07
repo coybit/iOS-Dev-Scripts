@@ -13,4 +13,4 @@ To run a fresh install of the application every time unit tests are run.
 You can find the instruction for using it in the file iteself (commented).
 
 ## run-test.sh
-To run test from command line. It could be used when you are going to setup yourown CI. Don't forget to edit the workspace and the schema name in the script. Take a look at [xcpretty](https://github.com/supermarin/xcpretty) and [xcpretty-json-formatter](https://github.com/marcelofabri/xcpretty-json-formatter)
+To run test from command line. It could be used when you are going to setup yourown CI. Don't forget to edit the workspace and the schema name in the script. If you want to have a more readable output take a look at [xcpretty](https://github.com/supermarin/xcpretty) and [xcpretty-json-formatter](https://github.com/marcelofabri/xcpretty-json-formatter)
